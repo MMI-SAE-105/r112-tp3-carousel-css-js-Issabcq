@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : BACQ
+- prénom : Issa
+- URL Netlify : https://starlit-taiyaki-efa090.netlify.app
 
 # Travail
 
